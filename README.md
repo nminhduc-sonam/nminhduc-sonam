@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nminhduc-sonam
+- 👋 Hi, I’m @nminhduc from Ha Noi, Viet Nam
 - 👀 I’m interested in PROGRAM
 - 🌱 I’m currently learning RUST
 - 💞️ I’m looking to collaborate on CCTV
